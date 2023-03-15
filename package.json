@@ -1,0 +1,23 @@
+{
+  "name": "typescript-blockchain",
+  "version": "1.0.0",
+  "description": "타입스크립트로 블록체인 만들어보기",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voidreader/Typescript-Blockchain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/voidreader/Typescript-Blockchain/issues"
+  },
+  "homepage": "https://github.com/voidreader/Typescript-Blockchain#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
